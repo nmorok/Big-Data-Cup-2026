@@ -1,0 +1,21 @@
+# ============================================================
+# Tactical Player Monitoring — Big Data Cup 2026
+# Morokhovich, Watson, Berdahl
+# ============================================================
+# Python >= 3.10 required
+# Install via: pip install -r requirements.txt
+# ============================================================
+ 
+# Core data manipulation
+pandas>=2.0.0
+numpy>=1.24.0
+ 
+# Machine learning (K-Means clustering, StandardScaler)
+scikit-learn>=1.3.0
+ 
+# Statistical testing (Welch's t-test)
+scipy>=1.11.0
+ 
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
